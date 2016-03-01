@@ -1,0 +1,9 @@
+.design_img {
+  position: relative;
+  margin: -15px -15px 0;
+  max-width: 480px;
+}
+
+.design_img img {
+  width: 100%;
+}
