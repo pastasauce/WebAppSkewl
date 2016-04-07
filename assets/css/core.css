@@ -1,7 +1,13 @@
+/*
+ Product: core.css
+ First Application
+*/
+
 .design_img {
-  position: relative;
+  position: absolute;
   margin: -15px -15px 0;
   max-width: 480px;
+  max-height: 200px;
 }
 
 .design_img img {
