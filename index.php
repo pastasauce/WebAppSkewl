@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
     <title>WebApp 1</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/core.css" />
+	<meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <link rel="stylesheet" href="jquery-mobile/jquery.mobile-1.4.5.min.css" />
     <script src="jquery-mobile/jquery-1.11.1.min.js"></script>
-	  <script src="jquery-mobile/jquery.mobile-1.4.5.min.js"></script>
+	<script src="jquery-mobile/jquery.mobile-1.4.5.min.js"></script>
   </head>
   <body>
     <div data-role="page" id="page" data-theme="a">
