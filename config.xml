@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
@@ -7,14 +6,14 @@
         id        = "com.phonegap.elo800"
         version   = "1.0.0">
 
-    <name>FirstApp</name>
+    <name>Our First App</name>
 
     <description>
-        Jeg har det bedste app1
+        Applikation under udvikling.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
-        Jeg er en mester
+        Frederik Bandit
     </author>
 
     <!--
