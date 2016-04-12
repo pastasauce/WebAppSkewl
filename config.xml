@@ -6,14 +6,14 @@
         id        = "com.phonegap.elo800"
         version   = "1.0.0">
 
-    <name>Our First App</name>
+    <name>Our Second App</name>
 
     <description>
-        Sämst
+        Applikation under udvikling.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
-        Jepstrup Bæbstrup
+        Frederik Bandit
     </author>
 
     <!--
